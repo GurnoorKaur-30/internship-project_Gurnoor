@@ -2,7 +2,8 @@
 
 This repository contains my internship google colab notebooks and code.
 
-# English–Punjabi Agromet Advisory Bulletin Pipeline
+# MULTILINGUAL AGRICULTURAL DATA PREPROCESSING
+AND QUALITY-VALIDATED PARALLEL CORPUS CREATION
 
 OCR, alignment, and quality validation pipeline for English–Punjabi Agromet Advisory Bulletins (IMD/PAU) across 20 Punjab districts. Built during internship at CSIR-CSIO Chandigarh.
 
